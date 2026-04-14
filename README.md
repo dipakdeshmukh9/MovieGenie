@@ -1,6 +1,11 @@
 # MovieGenie
 ## Suggets personlized movie Suggests personlized movie recommendations with AI.
 
+
+https://github.com/user-attachments/assets/63609ea2-b8c2-4533-8f46-f91345047f90
+
+
+
 - create React App
 - configured tailwindCSS
 - Header
